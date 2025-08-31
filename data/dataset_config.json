@@ -1,0 +1,67 @@
+{
+    "templates": [
+        "('s1:s2::o1:?', 'o3', '(Object->Object across)')"
+    ],
+    "instruction": "Finish the analogy in one word.",
+    "relation_families": {
+        "made of": [
+            "made of",
+            "crafted out of",
+            "composed of",
+            "constructed from"
+        ],
+        "located in": [
+            "located in",
+            "situated in",
+            "inside",
+            "within"
+        ],
+        "rests on": [
+            "resting on",
+            "placed on",
+            "sitting on",
+            "set on"
+        ]
+    },
+    "real_subjects": [
+        "jewelry",
+        "vase",
+        "sculpture",
+        "statue",
+        "artifact",
+        "bottle",
+        "cup",
+        "kiosk",
+        "bench",
+        "jar"
+    ],
+    "real_materials": [
+        "resin",
+        "plastic",
+        "bronze",
+        "oak",
+        "clay",
+        "marble",
+        "glass",
+        "steel"
+    ],
+    "real_places": [
+        "hotel",
+        "museum",
+        "library",
+        "gallery",
+        "mall",
+        "park",
+        "school",
+        "office"
+    ],
+    "real_surfaces": [
+        "desk",
+        "shelf",
+        "table",
+        "counter",
+        "stand",
+        "pedestal",
+        "workbench"
+    ]
+}
